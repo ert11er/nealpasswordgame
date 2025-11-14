@@ -12,7 +12,7 @@ If you are unable to find any links without messing up elements/digits, you can 
 Replace `DURATION` with your desired length in the format `MINUTES:SECONDS`: `[site:youtube.com "0:00 / DURATION"]`
 
 ## Initial Password
-The password I use before all the random requirements begin is `94417!octoberXXXVshell`
+The password I use before all the random requirements begin is `917!octoberXXXVshellAl🌑🌒🌓🌔🌕🌖🌗🌘2024`
 
 ## Wordle bypass
 Probably the easiest one of them all.
